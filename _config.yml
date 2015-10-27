@@ -1,0 +1,23 @@
+name: Pixelkeet
+favicon: null
+layout_spectrum: 0.636307158973068
+typography_spectrum: 0.36289948388002813
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7769080295693129
+  lightness: 0.8312175958417356
+  saturation: 0.07156757661141455
+  rhythmicContrast: 0.6368023317772895
+purpose: []
